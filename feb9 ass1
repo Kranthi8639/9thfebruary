@@ -1,0 +1,27 @@
+#Program to find the greatest among two number using operators    
+
+a = int(input("Enter first number: "))  
+
+b = int(input("Enter second number: "))   
+
+#Compare both the number 
+
+ if(a - b > 0): 
+
+ print("a is larger than b") 
+
+ else(b -a > 0):     
+
+ print("b is larger than a) 
+
+ else:
+
+      print("Both numbers are Equal")
+
+Output:
+
+a= 9
+
+b=7
+
+9 is larger than 7     
