@@ -1,0 +1,10 @@
+# Python program to check if the input number is odd or even
+
+n = int(input("Enter a number: "))
+if (n % 2) == 0:
+   print("n is even")
+   else:
+      print("n is odd")
+Output :
+Enter a number: 4
+4 is even
